@@ -1,16 +1,14 @@
-## Hi there 👋
+# Sobre Mim 🍄
 
-<!--
-**anabeatriz1DC/anabeatriz1DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Ana
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, PHP e Banco de Dados.
+
+
+## 🚀 Sobre mim
+Eu sou uma desenvolvedora, cursando o último semestre do curso de técnico de desenvolvimento de sistemas, no senai Jacob Lafer. 
